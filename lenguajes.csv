@@ -1,0 +1,6 @@
+Nombre,Año,Es_Tipado_Fuerte,Ranking
+Python,1991,True,1
+Java,1995,True,3
+JavaScript,1995,False,2
+C++,1985,True,4
+PHP,1995,False,8
